@@ -1,7 +1,7 @@
 /*
  * Class: CMSC203 
  * Instructor: Professor Khandan Monshi
- * Description: 
+ * Description: creates savings and checking accounts that add interest or charge a fee.
  * Due: 04/11/2025
  * Platform/compiler: Eclipse Java
  * I pledge that I have completed the programming  assignment independently. 
